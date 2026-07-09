@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+*.whl
+
+# Environment
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+.env.test
+
+# Secrets
+secrets/
+.secrets/
+
+# Build output
+dist/
+build/
+
+# Docker
+postgres_data/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Editors
+*.swp
+*.swo
+*~
+
+# Ad-hoc / debug scripts (root level only)
+/test_*.py
+/_fix_*.py
+/_check_*.py
+/_delete_*.py
+
+# Misc
+.eslintcache

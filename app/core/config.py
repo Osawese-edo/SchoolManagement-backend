@@ -35,6 +35,8 @@ class Settings(BaseSettings):
         "https://admin.destinedchampions.com",
         "https://schoolmanagement.osawesedos.workers.dev",
         "https://admin.schoolmanagement.osawesedos.workers.dev",
+        "https://schoolmanagement-aq9.pages.dev",
+        "https://schoolmanagement-vb02.onrender.com",
         "http://localhost:3005",
         "http://localhost:3006",
     ]

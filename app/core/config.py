@@ -37,7 +37,7 @@ class Settings(BaseSettings):
         "https://admin.schoolmanagement.osawesedos.workers.dev",
         
         "https://schoolmanagement-aq9.pages.dev",
-        "https://admin-schoolmanagement.pages.dev/",
+        "https://admin-schoolmanagement.pages.dev",
         
         "https://schoolmanagement-vb02.onrender.com",
         "http://localhost:3005",
